@@ -1,0 +1,9 @@
+animals:
+  cat: meow
+  dog: bark
+computer_setup:
+  headset: Logitech G pro
+  keyboard: Logitech G915
+  mouse: Logitech G pro
+food:
+  breakfast: idly
